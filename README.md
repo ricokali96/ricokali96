@@ -1,7 +1,7 @@
 - 👋 Hi
 - 🌱 Currently ML algorithms in Python and Java Libraries.
--                   ,--.    ,--.
-                 ((O ))--((O ))
+-                 ,--.    ,--.
+                (( O ))--(( O ))
                ,'_`--'____`--'_`.
               _:  ____________  :_
              | | ||::::::::::|| | |
