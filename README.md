@@ -1,5 +1,5 @@
 - 👋 Hi
-- 🌱 Currently ML algorithms in Python and Java Libraries.
+- 🌱 Currently learning ML algorithms in Python and Java Libraries.
 -                 ,--.    ,--.
                 (( O ))--(( O ))
                ,'_`--'____`--'_`.
